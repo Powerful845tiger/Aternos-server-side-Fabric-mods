@@ -8,8 +8,8 @@ use the issues.<br><br>
 
 ## Fabric 1.18.X
 
-| Name | Known Incompatibilities | Description | Author |els) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author |
+| --- | :---: | :---: | :---: |
 | [Alternate Current](https://aternos.org/addons/a/cursefabric/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation | Space Walker |
 | [Clumps](https://aternos.org/addons/a/cursefabric/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 |
 | [FastBench for Fabric](https://aternos.org/addons/a/cursefabric/fastbench-for-fabric) | Recipe Cache | This is a mod aimed at improving performance of all crafting-related functions. | tfarecnim |
