@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 ## Fabric 1.17.X
 
-| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
+| Name | Known Incompatibilities | Description | Author |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Alternate Current](https://aternos.org/addons/a/cursefabric/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation | Space Walker |
 | [Clumps](https://aternos.org/addons/a/cursefabric/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 |
